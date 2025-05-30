@@ -1,7 +1,6 @@
 Interactive GPT-3 Info Hub 🌐
 
-🚀 Welcome to my latest project! This interactive website, built with React and CSS, is designed to provide an engaging and informative experience about GPT-3 and OpenAI. With a sleek and responsive design, it ensures smooth navigation across all devices.
-
+A modern, responsive React.js frontend inspired by OpenAI’s GPT-3 — built to showcase clean component architecture, styled layouts, and frontend development skills.
 
 ✨ Features:
 
@@ -15,6 +14,41 @@ Interactive GPT-3 Info Hub 🌐
 
 📚 Library – A curated collection of resources to expand your knowledge.
 
-This project seamlessly combines form and function, making AI knowledge accessible and engaging. Feedback is always welcome!
+## 🛠️ Technologies Used
 
-🔗 Check it out and contribute
+- [React.js](https://reactjs.org/)
+- JSX
+- CSS (Flexbox + Grid)
+- Responsive Design Principles
+- Google Fonts
+- VS Code + Git
+
+## 📁 Project Structure
+
+/gpt3
+├── /components # Reusable UI components (Navbar, Brand, CTA)
+├── /containers # Page sections (Header, Blog, Features, etc.)
+├── /assets # Images, logos, icons
+├── App.jsx # Main app component
+├── index.js # React DOM render entry
+└── styles.css # Main styling file
+
+
+---
+
+## 🔧 Setup Instructions
+
+```bash
+# Clone the repo
+git clone https://github.com/KBhumee17/gpt3.git
+cd gpt3
+
+# Install dependencies
+npm install
+
+# Run the project
+npm start
+
+
+
+
