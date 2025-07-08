@@ -2,6 +2,8 @@ Interactive GPT-3 Info Hub 🌐
 
 A modern, responsive React.js frontend inspired by OpenAI’s GPT-3 — built to showcase clean component architecture, styled layouts, and frontend development skills.
 
+🔗 [Live Demo](https://gpt3-ashy.vercel.app/)
+
 ✨ Features:
 
 🏠 Home – A visually appealing landing page.
