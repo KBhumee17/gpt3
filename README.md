@@ -1,4 +1,4 @@
-Interactive GPT-3 Info Hub 🌐
+#Interactive GPT-3 Info Hub 🌐
 
 A modern, responsive React.js frontend inspired by OpenAI’s GPT-3 — built to showcase clean component architecture, styled layouts, and frontend development skills.
 
